@@ -1,13 +1,10 @@
 # Anagnoraxis
 
-用 AI 简化建站，把学习、研究与工具实践做成可以回看的记录。
+AI 研究、工具实践与订阅服务。
 
-- [个人网站](https://anagnoraxis.com/)：研究笔记、工具实践与长期数字记录。
-- [建站实践首页](https://7yedeng.github.io/)：我采用的建站步骤与项目入口。
-- [AI 订阅商城](https://shop.anagnoraxis.com/)：独立的商品、交付与售后说明。
+- [个人主站](https://anagnoraxis.com/)：AI 工具、研究笔记与开发实践。
+- [Anagnoraxis Shop](https://shop.anagnoraxis.com/)：ChatGPT 系列订阅，查看规格与购买条件。
+- [ChatGPT 订阅购买与核销指南](https://7yedeng.github.io/guides/chatgpt-subscription.html)：方案、账号检查、购买、兑换与售后。
+- [商城服务条款](https://shop.anagnoraxis.com/terms) · [联系支持](https://shop.anagnoraxis.com/about)
 
-我关心的是：从真实需求出发，先做清楚的页面，再把访问边界、部署、搜索可读性和后续维护补齐。
-
-我的建站顺序：明确问题 → 核对事实 → 组织页面 → 做出静态版本 → 验证功能与安全边界 → 发布并观察。
-
-AI 帮忙整理资料、编写和检查；来源、实际结果与还没验证的部分分别记录。构建成功、提交站图和真实收录也分别核对。
+[品牌导航首页](https://7yedeng.github.io/)
